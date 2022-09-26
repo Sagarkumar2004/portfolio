@@ -200,6 +200,9 @@ ul li a{  outline: none;
     background-color: transparent;
     cursor: pointer;
 }
+.btn a{
+     text-decoration: none;
+}
 
 .btn:hover{ 
   
